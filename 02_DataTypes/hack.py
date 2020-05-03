@@ -29,7 +29,7 @@ https://github.com/x90skysn3k/brutespray/blob/master/brutespray.py#L288
 """
 
 # Lists are ordered and values are accessed by index
-people = ["Steve", "Alice"]
+people = ["Steve", "Maria"]
 
 # Strings are great things to print
 print("Hacking " + people[0])
